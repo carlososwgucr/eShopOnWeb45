@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb
   LOCATION: canadacentral
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: 6cbfdc0f-1194-4aec-9f06-4cb477da02ea
+  SUBSCRIPTION-ID: a95554c3-0c3f-4a0e-8fab-f28e7dc1beec
   WEBAPP-NAME: eshoponweb-webapp-0806carlos
 
 jobs:
